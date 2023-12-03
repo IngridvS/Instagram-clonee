@@ -1,0 +1,99 @@
+.iconD{
+    height: 2.825rem;
+    width: 2.825rem;
+    cursor: pointer;
+}
+.bordTitulo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 2.925rem;
+    width: 2.925rem;
+    background-color: #000000;
+    border-radius: 50%;
+    margin-left: 1rem;
+}
+aside{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 20rem;
+    height: 9.5rem;
+}
+.align{
+    display: flex;
+    flex-direction: column;
+    margin-left: .625rem;
+}
+.nomeTitulo{
+    font-weight: 600;
+    cursor: pointer;
+    padding: 10px;
+}
+
+.mudar{
+    color: #0099ff;
+    cursor: pointer;
+    font-size: .825rem;
+   
+}
+.outrassugges1{
+    font-size: .925rem;
+    color: rgb(0, 0, 0);
+    margin-left: 1rem;
+}
+.outrassugges{
+    display: flex;
+    align-items: center;
+    width: 20rem;
+    font-size: .825rem;
+}
+.outrassugges2{
+    cursor: pointer;
+}
+.sugestoes img{
+    width: 2.825rem;
+    height: 2.825rem;
+    border: .5px solid #000000;
+}
+.sugestoes{
+    display: flex;
+    align-items: center;
+    width: 18.5rem;
+    margin: 1rem 0 0 1.5rem;
+}
+.spanSugest{
+    display: flex;
+    flex-direction: column;
+    margin-left: 1rem;
+    font-size: .825rem;
+}
+.spanSugest :first-child{
+    font-weight: 600;
+    cursor: pointer;
+}
+.spanSugest :not(:first-child){
+    color: #737373;
+}
+.seguir span{
+    color:#0099ff;
+    font-size: .825rem;
+}
+.inf{
+    width: 20rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 2rem 0 0 1.5rem;
+}
+.inf span p{
+    color: #bebbbb;
+    font-size: .825rem;
+}
+.inf :not(:first-child){
+    margin-top: 1rem;
+}
+.iconAside{
+    cursor: pointer;
+}
