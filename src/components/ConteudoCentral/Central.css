@@ -4,7 +4,8 @@
 .Stories{
     display: flex;
     width: 100%;
-    margin: 3.225rem 3rem 3.6rem 6.5rem;
+    justify-content: center;
+    margin: 2.225rem 0rem 2.6rem;
 }
 .icon{
     border-radius: 50%;

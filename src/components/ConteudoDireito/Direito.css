@@ -18,7 +18,8 @@ aside{
     justify-content: center;
     align-items: center;
     width: 20rem;
-    height: 9.5rem;
+    margin: 9px;
+    height: 5.5rem
 }
 .align{
     display: flex;
@@ -60,7 +61,7 @@ aside{
     display: flex;
     align-items: center;
     width: 18.5rem;
-    margin: 1rem 0 0 1.5rem;
+    margin: 19px;;
 }
 .spanSugest{
     display: flex;
@@ -85,7 +86,7 @@ aside{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    margin: 2rem 0 0 1.5rem;
+    margin: 19px;
 }
 .inf span p{
     color: #bebbbb;
